@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos pesados generados
+data/resultados/*.csv
+data/resultados/*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
